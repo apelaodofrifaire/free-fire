@@ -14,12 +14,10 @@ body {
     align-items: center;
  }
  .cabeçalho-imagem {
-    width: 15%;
+    width: 20%;
     height: 15%;
  }
-{
 
-}
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0% 16px;
@@ -33,11 +31,19 @@ body {
     justify-content: center;
     
  }
- .es
 
  .escola-imagem{
     width: 25%;
     
  }
- .escola-título
- .escola-parágrafo
+ .escola-conteudo{
+    width: 40%;
+ }
+
+ .escola-título{
+   padding: 24px 0;
+    
+ }
+ .estudante-imagem {
+   width: 120px;
+ }
